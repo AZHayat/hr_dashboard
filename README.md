@@ -45,21 +45,37 @@ The generated dataset includes the following columns:
 
 ### Column Name	Description
 employee_id	Unique employee identifier (e.g., JKM1234)
+
 name	Employee's full name
+
 gender	Employee's gender (Male/Female)
+
 city	City where the employee is located
+
 province	Province of the employee's location
+
 latitude	Latitude of the employee's city
+
 longitude	Longitude of the employee's city
+
 department	Department the employee belongs to
+
 job_title	Employee's job title
+
 hire_date	Date when the employee was hired
+
 birth_date	Employee's birthdate
+
 termination_date	(Optional) Date of employee termination
+
 education_level	Employee's education level
+
 salary	Employee's adjusted salary
+
 performance_rating	Performance rating of the employee (Excellent, Good, etc.)
+
 overtime	Whether the employee works overtime (Yes/No)
+
 
 ## 📫 Contact
 If you have any questions or want to collaborate, feel free to reach out!
